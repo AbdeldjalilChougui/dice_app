@@ -43,6 +43,7 @@ class _MyAppState extends State<MyApp> {
           backgroundColor: Colors.pinkAccent[200],
           body : ListView(
             children: <Widget>[
+              SizedBox(height: 20,),
               Center(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
